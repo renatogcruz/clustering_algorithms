@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1623689782923.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2557762923",
+    "id" : "B6B4B5FF",
+    "lastKnownWriteTime" : 1623689851,
+    "last_content_update" : 1623689851146,
+    "path" : "G:/Drives compartilhados/ASN.Rocks_ESCOLAS/USP/MBA_CLUSTER/Nao_Supervisionado_USP/1_Nao_supervisionado_USP.R",
+    "project_path" : "1_Nao_supervisionado_USP.R",
+    "properties" : {
+        "cursorPosition" : "214,0",
+        "scrollLine" : "199"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
